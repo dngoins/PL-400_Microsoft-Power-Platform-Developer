@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Register xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/crm/2011/tools/pluginregistration">
+  <Solutions>
+    <Solution Assembly="AvaDataverseDemo.AvaPlugin.dll" Id="b7786d63-e784-4fc9-8bf2-076e92991684" IsolationMode="Sandbox" SourceType="Database">
+      <PluginTypes>
+        <clear />
+        <Plugin Description="Plug-in to Create of ava_project" FriendlyName="Create of ava_project" Name="AvaDataverseDemo.AvaPlugin.PreValidationava_projectCreate" Id="4cbf8dfc-7c14-45f9-95d7-00691e10b046" TypeName="AvaDataverseDemo.AvaPlugin.PreValidationava_projectCreate">
+          <Steps>
+            <clear />
+            <Step AsyncAutoDelete="false" Name="Create of ava_project" Description="Create of ava_project" Id="7736e46e-7bb2-ed11-83fe-000d3a8fbbc3" ImpersonatingUserId="00000000-0000-0000-0000-000000000000" MessageName="Create" Mode="Synchronous" PrimaryEntityName="ava_project" Rank="1" Stage="PreOutsideTransaction" SupportedDeployment="ServerOnly" MessageEntityId="00000000-0000-0000-0000-000000000000">
+              <Images />
+            </Step>
+          </Steps>
+        </Plugin>
+      </PluginTypes>
+    </Solution>
+    <Solution Assembly="AvaDataverseDemo.AvaCustom.dll" Id="00000000-0000-0000-0000-000000000000" IsolationMode="Sandbox" SourceType="Database" />
+    <Solution Assembly="AvaDataverseDemo.AvaWF.dll" Id="00000000-0000-0000-0000-000000000000" IsolationMode="Sandbox" SourceType="Database" />
+  </Solutions>
+  <XamlWorkflows>
+    <XamlWorkflowSolution Assembly="AvaDataverseDemo.AvaWF.dll" />
+  </XamlWorkflows>
+  <DataProviders />
+</Register>

@@ -1,0 +1,8 @@
+C:\Users\dngoi\source\repos\AvaDataverseDemo\AvaCustom\bin\Debug\AvaDataverseDemo.AvaCustom.dll
+C:\Users\dngoi\source\repos\AvaDataverseDemo\AvaCustom\bin\Debug\AvaDataverseDemo.AvaCustom.pdb
+C:\Users\dngoi\source\repos\AvaDataverseDemo\AvaCustom\bin\Debug\Microsoft.Crm.SolutionProjects.MSBuild.dll
+C:\Users\dngoi\source\repos\AvaDataverseDemo\AvaCustom\obj\Debug\AvaCustom.csproj.AssemblyReference.cache
+C:\Users\dngoi\source\repos\AvaDataverseDemo\AvaCustom\obj\Debug\AvaCustom.csproj.CoreCompileInputs.cache
+C:\Users\dngoi\source\repos\AvaDataverseDemo\AvaCustom\obj\Debug\AvaCustom.csproj.CopyComplete
+C:\Users\dngoi\source\repos\AvaDataverseDemo\AvaCustom\obj\Debug\AvaDataverseDemo.AvaCustom.dll
+C:\Users\dngoi\source\repos\AvaDataverseDemo\AvaCustom\obj\Debug\AvaDataverseDemo.AvaCustom.pdb

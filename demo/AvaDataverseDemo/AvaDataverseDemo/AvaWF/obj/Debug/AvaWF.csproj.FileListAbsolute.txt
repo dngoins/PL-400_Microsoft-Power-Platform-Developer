@@ -1,0 +1,13 @@
+C:\Users\dngoi\source\repos\AvaDataverseDemo\AvaWF\bin\Debug\AvaDataverseDemo.AvaWF.dll
+C:\Users\dngoi\source\repos\AvaDataverseDemo\AvaWF\bin\Debug\AvaDataverseDemo.AvaWF.pdb
+C:\Users\dngoi\source\repos\AvaDataverseDemo\AvaWF\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\dngoi\source\repos\AvaDataverseDemo\AvaWF\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\dngoi\source\repos\AvaDataverseDemo\AvaWF\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Users\dngoi\source\repos\AvaDataverseDemo\AvaWF\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Users\dngoi\source\repos\AvaDataverseDemo\AvaWF\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\dngoi\source\repos\AvaDataverseDemo\AvaWF\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\dngoi\source\repos\AvaDataverseDemo\AvaWF\obj\Debug\AvaWF.csproj.AssemblyReference.cache
+C:\Users\dngoi\source\repos\AvaDataverseDemo\AvaWF\obj\Debug\AvaWF.csproj.CoreCompileInputs.cache
+C:\Users\dngoi\source\repos\AvaDataverseDemo\AvaWF\obj\Debug\AvaWF.csproj.CopyComplete
+C:\Users\dngoi\source\repos\AvaDataverseDemo\AvaWF\obj\Debug\AvaDataverseDemo.AvaWF.dll
+C:\Users\dngoi\source\repos\AvaDataverseDemo\AvaWF\obj\Debug\AvaDataverseDemo.AvaWF.pdb

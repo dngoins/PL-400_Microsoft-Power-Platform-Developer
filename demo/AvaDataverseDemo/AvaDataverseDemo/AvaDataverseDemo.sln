@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrmPackage", "CrmPackage\CrmPackage.csproj", "{A98DF192-8553-458F-B394-3FCF910CD47E}"
+	ProjectSection(ProjectDependencies) = postProject
+		{A27375EA-F675-4937-BFD4-0FE8DAB809BE} = {A27375EA-F675-4937-BFD4-0FE8DAB809BE}
+		{B5BBD646-9016-4C4A-A80A-574339833DF9} = {B5BBD646-9016-4C4A-A80A-574339833DF9}
+		{E7B930ED-7383-4AC9-A098-11AE9475CFEF} = {E7B930ED-7383-4AC9-A098-11AE9475CFEF}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvaPlugin", "AvaPlugin\AvaPlugin.csproj", "{B5BBD646-9016-4C4A-A80A-574339833DF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvaCustom", "AvaCustom\AvaCustom.csproj", "{A27375EA-F675-4937-BFD4-0FE8DAB809BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvaWF", "AvaWF\AvaWF.csproj", "{E7B930ED-7383-4AC9-A098-11AE9475CFEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A98DF192-8553-458F-B394-3FCF910CD47E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A98DF192-8553-458F-B394-3FCF910CD47E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A98DF192-8553-458F-B394-3FCF910CD47E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A98DF192-8553-458F-B394-3FCF910CD47E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A98DF192-8553-458F-B394-3FCF910CD47E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A98DF192-8553-458F-B394-3FCF910CD47E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{B5BBD646-9016-4C4A-A80A-574339833DF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5BBD646-9016-4C4A-A80A-574339833DF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5BBD646-9016-4C4A-A80A-574339833DF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5BBD646-9016-4C4A-A80A-574339833DF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A27375EA-F675-4937-BFD4-0FE8DAB809BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A27375EA-F675-4937-BFD4-0FE8DAB809BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A27375EA-F675-4937-BFD4-0FE8DAB809BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A27375EA-F675-4937-BFD4-0FE8DAB809BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7B930ED-7383-4AC9-A098-11AE9475CFEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7B930ED-7383-4AC9-A098-11AE9475CFEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7B930ED-7383-4AC9-A098-11AE9475CFEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7B930ED-7383-4AC9-A098-11AE9475CFEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A622B5AF-2B17-41A9-B134-41438BF225DE}
+	EndGlobalSection
+	GlobalSection(CRMSolutionProperties) = preSolution
+		SolutionIsBoundToCRM = True
+	EndGlobalSection
+EndGlobal
